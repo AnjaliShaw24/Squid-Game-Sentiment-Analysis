@@ -11,8 +11,7 @@ Data Cleaning: Removal of unnecessary columns and handling missing data.
 Text preprocessing, including converting text to lowercase, removing URLs, HTML tags, punctuation, and stopwords, and stemming words.
 
 # Data Source:
-The data for this application was obtained from the Kaggle.com website. The primary information came from: https://www.kaggle.com/deepcontractor/squid-game-netflix-twitter-data This dataset has over 80,000 Tweets and 12 columns. Data Source:
-The data for this application was obtained from the Kaggle.com website. The primary information came from: https://www.kaggle.com/deepcontractor/squid-game-netflix-twitter-data This dataset has over 80,000 Tweets and 12 columns. 
+The data for this application was obtained from the Kaggle.com website. The primary information came from: https://www.kaggle.com/deepcontractor/squid-game-netflix-twitter-data This dataset has over 80,000 Tweets and 12 columns.
 
 # Visualization:
 
